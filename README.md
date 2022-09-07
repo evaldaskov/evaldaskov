@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Data Analytics
+🔭 I’m currently working with ![image](https://user-images.githubusercontent.com/97896519/188858708-59364c0f-dabc-405a-9688-98a5b4061d3b.png), 
+
+🤔 I’m looking for help with ...
+
+
 <!--
 **evaldaskov/evaldaskov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
