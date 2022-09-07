@@ -1,6 +1,6 @@
 ### Hi there, I'm Evaldas 👋
 
-- :man_student: I’m currently learning Data Analytics
+- :man_student: I’m currently learning Data Analytics at [Turing College](https://www.turingcollege.com/data-analytics)
 
 - :book: Material I use: 
 
